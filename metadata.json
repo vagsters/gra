@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Clicker",
+  "description": "An incremental clicker game set in space. Click the star to generate Stardust, purchase upgrades to increase your power, and build automatic generators to create a cosmic empire. Your progress is saved automatically in your browser.",
+  "requestFramePermissions": []
+}
